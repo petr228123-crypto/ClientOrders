@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 #include "orderdialog.h"
+#include <QStatusBar>
 #include <QMessageBox>
 #include <QToolBar>
 #include <QAction>
